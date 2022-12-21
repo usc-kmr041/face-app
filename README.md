@@ -1,4 +1,4 @@
-# flutter_application_1
+# face-app
 
 A new Flutter project.
 
