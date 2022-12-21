@@ -1,0 +1,28 @@
+^C:\PROJECTS\FIRST-FLUTTER-APP\FLUTTER_APPLICATION_1\BUILD\WINDOWS\CMAKEFILES\582E5907E35D0F6837F3C355788E9175\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\projects\first-flutter-app\flutter_application_1 FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\projects\first-flutter-app\flutter_application_1\windows\flutter\ephemeral PROJECT_DIR=C:\projects\first-flutter-app\flutter_application_1 FLUTTER_TARGET=C:\projects\first-flutter-app\flutter_application_1\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\projects\first-flutter-app\flutter_application_1\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\FIRST-FLUTTER-APP\FLUTTER_APPLICATION_1\BUILD\WINDOWS\CMAKEFILES\EB0AEEBF09A5FCE89C0B934A752C4F77\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\FIRST-FLUTTER-APP\FLUTTER_APPLICATION_1\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/projects/first-flutter-app/flutter_application_1/windows -BC:/projects/first-flutter-app/flutter_application_1/build/windows --check-stamp-file C:/projects/first-flutter-app/flutter_application_1/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

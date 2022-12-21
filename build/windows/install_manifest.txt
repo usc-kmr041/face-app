@@ -1,0 +1,10 @@
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/icudtl.dat
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/flutter_windows.dll
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/projects/first-flutter-app/flutter_application_1/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
